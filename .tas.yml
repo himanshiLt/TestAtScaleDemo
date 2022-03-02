@@ -18,7 +18,6 @@ preMerge:
     - "./test/**/single_test.js"
 
 postMerge:
-
   # glob-pattern for identifying the test files
   pattern:
   - "./test/**/single_test.js"
